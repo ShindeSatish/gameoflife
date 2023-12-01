@@ -1,0 +1,9 @@
+ How to Use
+
+1. Modify Initial State:
+To change the initial state of the universe or add different patterns, use the `gliderPattern` in the main function.
+
+2. Number of Generations:
+The program runs for a fixed number of generations (noOfGenerations). Adjust this value of constant to simulate more or fewer generations.
+
+3. A time delay (time.Sleep(time.Second)) is added between generations to make the simulation more visually comprehensible. Adjust the sleep duration as desired.
